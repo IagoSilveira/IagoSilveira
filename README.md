@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IagoSilveira
 - 👀 I’m interested in Sciense
-- 🌱 I’m currently learning digital marketing and how to lead with date
-- 💞️ I’m looking to collaborate on biotecnology projects
+- 🌱 I’m currently learning scRNA-seq bioinformatic analisys
+- 💞️ I’m looking to discover something helpfull to safe people
 - 📫 How to reach me send me a text message
 
 <!---
